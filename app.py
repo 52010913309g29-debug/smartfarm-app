@@ -40,7 +40,7 @@ init_db()
 # ส่วนหน้าจอแอปพลิเคชัน (Frontend & UI)
 # ==========================================
 st.set_page_config(page_title="Smart Farm Manager", layout="wide")
-st.title("🌱 Smart Farm Manager - สวนสามเหรียญการ์เด้น")
+st.title("🌱 Smart Farm Manager - สวนบุญเสถียรประภาชัย")
 
 st.sidebar.header("เมนูหลัก")
 menu = ["1. จัดการการปลูก (Crop)", "2. ตารางงาน (Tasks)", "3. บัญชี (Finance)", "4. ข้อมูลเซ็นเซอร์ (IoT)", "5. จัดการข้อมูล (Edit Data)"]
